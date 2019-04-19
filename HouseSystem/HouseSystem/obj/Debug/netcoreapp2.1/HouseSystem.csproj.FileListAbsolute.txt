@@ -1,0 +1,11 @@
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\bin\Debug\netcoreapp2.1\HouseSystem.deps.json
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\bin\Debug\netcoreapp2.1\HouseSystem.runtimeconfig.json
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\bin\Debug\netcoreapp2.1\HouseSystem.runtimeconfig.dev.json
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\bin\Debug\netcoreapp2.1\HouseSystem.dll
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\bin\Debug\netcoreapp2.1\HouseSystem.pdb
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\obj\Debug\netcoreapp2.1\HouseSystem.csprojAssemblyReference.cache
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\obj\Debug\netcoreapp2.1\HouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\obj\Debug\netcoreapp2.1\HouseSystem.AssemblyInfoInputs.cache
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\obj\Debug\netcoreapp2.1\HouseSystem.AssemblyInfo.cs
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\obj\Debug\netcoreapp2.1\HouseSystem.dll
+C:\Users\Isabel Francine Mend\Desktop\PosGraduacao\DM102_Renzo\DM102_HouseSystem\HouseSystem\HouseSystem\obj\Debug\netcoreapp2.1\HouseSystem.pdb
