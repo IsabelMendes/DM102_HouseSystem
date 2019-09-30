@@ -1,1 +1,1 @@
-# House reantal program using C#
+# House rental program using C#
